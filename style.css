@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 標楷體;
+    color:black
+}
+
+#card {
+   background-image: url(https://images.unsplash.com/photo-1562863347-3a8c8e1eae5c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8YnVsbGRvZ3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    width: 600px;
+    background-size: cover;
+    margin: 100PX auto 0;
+    padding: 200PX 70PX 50PX ;
+
+}
+
+#content{
+    background-color: rgb(155, 150, 150,0.5);
+
+    padding: 30pX 20PX;
+
+}
+
+ul{
+    padding-left: 50px;
+}
