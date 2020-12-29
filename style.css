@@ -24,3 +24,19 @@
 ul{
     padding-left: 50px;
 }
+
+h2{
+    padding-top: 20px;
+}
+li{
+    padding-top: 5px;
+}
+footer{
+    text-align: center;
+    font-size: 80PX;
+    letter-spacing: 80PX;
+    padding-left: 80PX;
+    color:rgba(21, 78, 78, 0.5);
+    margin-top: 50px;
+
+}
