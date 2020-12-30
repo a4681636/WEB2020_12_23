@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
     font-family: 標楷體;
-    color:black
+    color:black;
+    
+    
+    
 }
 
 #card {
@@ -11,8 +14,15 @@
     background-size: cover;
     margin: 100PX auto 0;
     padding: 200PX 70PX 50PX ;
-
+    transition: 0.6s;
+    
 }
+
+    #card:hover{
+        transform: scale(1.15);
+    }
+
+
 
 #content{
     background-color: rgb(155, 150, 150,0.5);
@@ -37,6 +47,13 @@ footer{
     letter-spacing: 80PX;
     padding-left: 80PX;
     color:rgba(21, 78, 78, 0.5);
-    margin-top: 50px;
+    margin-top: 100px;
+    box-shadow: black 0.1em 0.1em 0.2em;
+    text-shadow: black 0.1em 0.1em 0.5em;
+    background:	#97CBFF;
 
+
+}
+body{
+    background-color: rgb(158, 152, 143);
 }
